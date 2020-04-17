@@ -10,5 +10,6 @@ cout<<"gugudan"<<endl;
 			cout << i << "*" << j << "=" << i * j << endl;
 		}
 		cout << endl;
-	}
+  }
+  reurn 0;
 }
