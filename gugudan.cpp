@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+cout<<"gugudan"<<endl;
 	for (int i = 1; i < 9; i++)
 	{
 		for (int j = 1; j < 10; j++)
@@ -9,6 +10,6 @@ int main()
 			cout << i << "*" << j << "=" << i * j << endl;
 		}
 		cout << endl;
-	}
-	return 0;
+  }
+  reurn 0;
 }
